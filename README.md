@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Madhav Gupta</h1>
-<h3 align="center">A Computer Science student at Delhi Technological Engineering</h3>
+<h3 align="center">A Computer Science student and FullStack Developer at Delhi Technological Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavgupta2002&label=Profile%20views&color=0e75b6&style=flat" alt="madhavgupta2002" /> </p>
 
-- 🌱 I’m currently learning **Backend Development**
+ 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **mgups2002@gmail.com**
 
