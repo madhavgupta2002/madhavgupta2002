@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavgupta2002&label=Profile%20views&color=0e75b6&style=flat" alt="madhavgupta2002" /> </p>
 
- 🌱 I’m currently learning **Machine Learning**
+ 🌱 I’m currently learning **Web 3.0** and **Deep Learning**
 
 - 📫 How to reach me **mgups2002@gmail.com**
 
